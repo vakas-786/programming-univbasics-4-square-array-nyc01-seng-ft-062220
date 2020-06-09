@@ -4,5 +4,5 @@ def square_array(array)
   while count < numbers.length
     counter += 1
   end
-  return new_numbers
+  return array
 end
